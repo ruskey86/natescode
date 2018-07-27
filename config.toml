@@ -2,7 +2,7 @@ title = "natescode.com"
 baseURL = "https://www.natescode.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
-themesDir = "themes/hugoThemes"
+themesDir = "themes/"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
