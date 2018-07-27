@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NatesCode on natescode.com</title>
+    <link>http://www.natescode.com/</link>
+    <description>Recent content in NatesCode on natescode.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jul 2018 22:57:19 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.natescode.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proper Code Comments</title>
+      <link>http://www.natescode.com/post/proper-code-comments/</link>
+      <pubDate>Mon, 23 Jul 2018 22:57:19 -0500</pubDate>
+      
+      <guid>http://www.natescode.com/post/proper-code-comments/</guid>
+      <description>Code comments are just as they sound. They are extra documentation about the software you are writting that isn&amp;rsquo;t actually executed. They should allow you to make your code clearer.
+Often Novice developers will over-user, under-use and worst of all misuse comments. Let&amp;rsquo;s go over an example
+// a: minimum number // b: maximum number // returns a random number within given //range static int rnd(int a, int b){ ...code .</description>
+    </item>
+    
+    <item>
+      <title>Sindyscript: My Toy Interpreter Project</title>
+      <link>http://www.natescode.com/post/sindyscript-my-toy-interpreter-project/</link>
+      <pubDate>Sat, 21 Jul 2018 14:52:47 -0500</pubDate>
+      
+      <guid>http://www.natescode.com/post/sindyscript-my-toy-interpreter-project/</guid>
+      <description>As a technologist I often get curious on how things work underneath. When it comes to home renovation projects sometimes going too deep will cost you, thankfully software is safer, unless you&amp;rsquo;re messing with production.
+Inspired by my beautiful wife I wanted to create an interpreter. I later on want to create my own compiler which will take the interpreter process a step further.
+For a VERY basic interpreter I wanted to be able to handle basic arithemtic expressions.</description>
+    </item>
+    
+    <item>
+      <title>Hello World: an origin story</title>
+      <link>http://www.natescode.com/post/hello-world/</link>
+      <pubDate>Sat, 21 Jul 2018 14:45:50 -0500</pubDate>
+      
+      <guid>http://www.natescode.com/post/hello-world/</guid>
+      <description>Well I was born and all that. Fast forward to high school. I learned to program my TI-84 Plus graphing calculator to do all my math homework for me. I even got it to draw a triangle and label all of the angles and sides for me. My friends and I later went on to create simple mostly-text based RPG games. I also learned some C++ but there weren&amp;rsquo;t too many resources online in the early 2000&amp;rsquo;s.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.natescode.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.natescode.com/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
