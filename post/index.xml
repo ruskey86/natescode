@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on natescode.com</title>
+    <link>https://www.natescode.com/post/</link>
+    <description>Recent content in Posts on natescode.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Jul 2018 14:45:50 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.natescode.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World: an origin story</title>
+      <link>https://www.natescode.com/post/hello-world/</link>
+      <pubDate>Sat, 21 Jul 2018 14:45:50 -0500</pubDate>
+      
+      <guid>https://www.natescode.com/post/hello-world/</guid>
+      <description>Well I was born and all that. Fast forward to high school. I learned to program my TI-84 Plus graphing calculator to do all my math homework for me. I even got it to draw a triangle and label all of the angles and sides for me. My friends and I later went on to create simple mostly-text based RPG games. I also learned some C++ but there weren&amp;rsquo;t too many resources online in the early 2000&amp;rsquo;s.</description>
+    </item>
+    
+  </channel>
+</rss>
