@@ -6,4 +6,4 @@ menu:
   main: {}
 
 ---
-If you'd like to contact me my email is nate at natescode.com.
+If you'd like to contact me reach out to me via twitter, youtube or email (nate at natescode dot com)
