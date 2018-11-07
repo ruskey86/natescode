@@ -1,6 +1,7 @@
 ---
 title: 'Hello World: an origin story'
 date: 2018-07-21 19:45:50 +0000
+draft: true
 
 ---
 Well I was born and all that. Fast forward to high school. I learned to program my TI-84 Plus graphing calculator to do all my math homework for me. I even got it to draw a triangle and label all of the angles and sides for me. My friends and I later went on to create simple mostly-text based RPG games. I also learned some C++ but there weren't too many resources online in the early 2000's.
