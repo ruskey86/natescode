@@ -22,4 +22,5 @@ fields:
   name: published_date
   label: published date
 pages:
+- content/post/boxing-and-unboxing.md
 - content/post/become-a-computer-programmer.md
