@@ -1,0 +1,23 @@
+---
+label: default
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Post Title
+  default: New Post
+  config:
+    required: true
+- type: textarea
+  default: post content
+- type: datetime
+  default: 2018-11-08 04:00:14 +0000
+  config:
+    date_format: MM/DD/YYYY
+    display_utc: true
+    required: false
+  description: Date published
+  name: published_date
+  label: published date
