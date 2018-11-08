@@ -21,3 +21,5 @@ fields:
   description: Date published
   name: published_date
   label: published date
+pages:
+- content/post/become-a-computer-programmer.md
