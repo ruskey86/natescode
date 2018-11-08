@@ -16,4 +16,15 @@ Here I'll make _you_ a "new"
 
    This can be daunting but in reality there shouldn't be a whole lot of thought put into it. To paraphrase a 20 year software veteran  "The first language you learn teaches you to think in code. The second language you learn teaches you to separate the programming concepts."
 
-   SO I'll pick it for you.
+   SO I'll pick it for you:
+
+    JavaScript
+
+The concepts 
+
+1. Variables
+2. Functions
+3. Objects
+4. Inheritance
+   1. Prototype based
+5. Lambdas 
