@@ -22,6 +22,7 @@ fields:
   name: published_date
   label: published date
 pages:
+- content/post/secondary-software-skills.md
 - content/post/hello-world-becoming-a-software-engineer.md
 - content/post/boxing-and-unboxing.md
 - content/post/become-a-computer-programmer.md
