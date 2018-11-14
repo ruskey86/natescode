@@ -53,4 +53,4 @@ You need MORE than just code to be a software engineer. I hope this isn't surpri
 * Understand the business requirements
 * Estimate the effort and how long it'll take to develop the feature
 * Team collaboration skills
-* Team managment
+* Team management
