@@ -43,6 +43,7 @@ You need MORE than just code to be a software engineer. I hope this isn't surpri
 * Windows | Linux | OSX | iOS | Android
 * Working with QA
 * Writing Unit Tests
+* Code Refactoring
 
 **Soft Skills**
 
@@ -52,3 +53,4 @@ You need MORE than just code to be a software engineer. I hope this isn't surpri
 * Understand the business requirements
 * Estimate the effort and how long it'll take to develop the feature
 * Team collaboration skills
+* Team managment
