@@ -6,7 +6,7 @@ date: 2018-11-14 23:33:24 +0000
 draft: true
 
 ---
-Ever since 2014 was the "year of code" many companies have released free or paid resources, outside of the traditional academia, for others to learn to code. This was borne by the internet and born out of the huge need for more software engineers, four years of college and debt being too much of a barrier for many.
+Ever since 2014 was the "year of code" many companies have released free or paid resources, outside of the traditional academia, for others to learn to code. This was born out of a need by large software companies to get more software engineers quicker. Now that software has gone main stream, many are left thinking that coding is all I do at work all day, in fact it is maybe 25% of what I do all day.
 
 #### "You need to go Beyond code, enter NatesCode.
 
