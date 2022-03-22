@@ -13,3 +13,6 @@ I spent time consulting on Phonegap/Cordova based mobile projects and making a f
 Fast-forward 5 years and life has changed quite a lot. I have a well established career now. I mostly telecommute (yeah no drive to work!) and spend time doing contract work on the side. 
 
 Now, 2018, I want to start building NatesCode as well as the corresponding YouTube channel to help others learn to code.
+
+
+THE END
